@@ -9,3 +9,9 @@ There are many advantages of using GraphQL. Some of them are:
   * Single Endpoint
   * Reducing the concept of Versioning the APIs
   * No more Strict Handshake between developers — De Coupling
+
+# Main GraphQL operations
+
+  * Query: Fetch data from endpoints
+  * Mutation: Change data (CREATE/UPDATE/DELETE)
+  * Subscription: Watch data change in real time
